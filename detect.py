@@ -58,7 +58,7 @@ def bb_blur(im0,xyxy,blurlevel,shape_detector,i):
     x2 = face.right() 
     y2 = face.bottom()
     #/content/drive/MyDrive/banned
-    path="/content/drive/MyDrive/bannd"
+    path="/content/Yolov7-cigarette-censor-and-smokers-face-recorder/smokers_faces"
     crop=im0[y1:y2,x1:x2]
     cv2.imwrite(os.path.join(path , f'crop_{i}.jpg'),crop)
 
