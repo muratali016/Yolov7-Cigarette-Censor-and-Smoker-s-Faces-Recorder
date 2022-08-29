@@ -26,8 +26,9 @@ and we are good to go!**
  
  
 ### Results!
-![exp](https://user-images.githubusercontent.com/77502485/187298374-b94b14e9-845c-4614-a63d-b87ab76fae42.jpg)
-![exp2](https://user-images.githubusercontent.com/77502485/187298442-64232e16-0317-4703-95ac-9fe3b52a8d63.jpg)
+![exp](https://user-images.githubusercontent.com/77502485/187298601-c4fb2b68-5eef-4210-81a0-ea95b9cfeae1.jpg)
+![exp2](https://user-images.githubusercontent.com/77502485/187298605-0975d484-8640-4525-a3bd-37af32a5ff0e.jpg)
+
 
 ### Inference on a video:
 
