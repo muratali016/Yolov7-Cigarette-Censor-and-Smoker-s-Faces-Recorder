@@ -1,7 +1,10 @@
 # Ready-to-use Google Colab file: https://colab.research.google.com/drive/1QWI94mivkWGZLvrB4cUoaw3dH6Cf45mw?usp=sharing
 # Yolov7-cigarette-censor-and-smokers-face-recorder
-* Cencor all cigarettes on the screen and save smoker's face in the folder or your database
-* Usefull for pyblic non-smoking areas
+* **Cencoring and counting all cigarettes on the screen and saving smoker's faces in the folder or any database**
+* **Usefull for public non-smoking areas**
+* **Code can run on Both (CPU & GPU)**
+* **Video/WebCam/External Camera/IP Stream Supported**
+
 
 Features
 * Count all objetcs by classes and works perfetcly on every image or on a video
