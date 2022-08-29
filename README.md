@@ -9,13 +9,10 @@
 * **We are going to copy my repo and just download "traced_model.pt" which is already given by me in the code,
 and we are good to go!**
  
-
 ## Steps to run Code
 * clone the repository:
-* ```git clone https://github.com/WongKinYiu/yolov7 ```
-* ```%cd yolov7```
-* install yolov7 model
-* ``` !wget "https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt" ```
+* ```git clone https://github.com/muratali016/Yolov7-cigarette-censor-and-smokers-face-recorder.git```
+* Download traced_model.pt by link:https://drive.google.com/file/d/1ovsR0biNCnOZ9174bSkNS-5IMtYGa52b/view?usp=sharing and move this model to ypur directory 
 
 ### Upgrade pip with mentioned command below.
 ``` pip install --upgrade pip ```
@@ -24,7 +21,8 @@ and we are good to go!**
  ``` pip install -r requirements.txt ```
 
 ### Using counter
- ``` !python detect_and_count.py --weights /content/yolov7/yolov7.pt --conf 0.1 --source /content/yolov7/inference/images ```
+ ``` %cd /content/Yolov7-cigarette-censor-and-smokers-face-recorder
+!python detect.py --weights best_cigarette.pt --conf 0.1 --source /content/Yolov7-cigarette-censor-and-smokers-face-recorder/example_img.jpg --cigarette_blurrate 50 --shape_detector /content/Yolov7-cigarette-censor-and-smokers-face-recorder/shape_predictor_68_face_landmarks.dat  ```
  
 ### Results!
 
