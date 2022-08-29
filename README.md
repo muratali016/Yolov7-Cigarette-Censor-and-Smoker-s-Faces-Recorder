@@ -21,8 +21,8 @@ and we are good to go!**
  ``` pip install -r requirements.txt ```
 
 ### Using counter
- ```%cd /content/Yolov7-cigarette-censor-and-smokers-face-recorder
-!python detect.py --weights best_cigarette.pt --conf 0.1 --source /content/Yolov7-cigarette-censor-and-smokers-face-recorder/example_img.jpg --cigarette_blurrate 50 --shape_detector /content/Yolov7-cigarette-censor-and-smokers-face-recorder/shape_predictor_68_face_landmarks.dat```
+ ```%cd /content/Yolov7-cigarette-censor-and-smokers-face-recorder```%
+```%!python detect.py --weights best_cigarette.pt --conf 0.1 --source /content/Yolov7-cigarette-censor-and-smokers-face-recorder/example_img.jpg --cigarette_blurrate 50```% --shape_detector /content/Yolov7-cigarette-censor-and-smokers-face-recorder/shape_predictor_68_face_landmarks.dat```
  
 ### Results!
 
