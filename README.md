@@ -5,6 +5,10 @@
 * **Code can run on Both (CPU & GPU)**
 * **Video/WebCam/External Camera/IP Stream Supported**
 
+
+https://user-images.githubusercontent.com/77502485/188095525-84964058-0945-463a-9924-1b606007204a.mp4
+
+
 ## It is super easy to run
 * **We are going to copy my repo and just download "traced_model.pt" which is already given by me in the code,
 and we are good to go!**
